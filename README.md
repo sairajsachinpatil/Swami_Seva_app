@@ -28,6 +28,3 @@ I dedicate this humble creation to my everything — my God and Guru, Shree Swam
 With each line of code, I offer my gratitude and devotion.
 “ Shree Swami Samarth! ” 🙏
 
-# App_Screenshots
-1)Splash_Screen (screenshots/![First Screen](https://github.com/user-attachments/assets/df9443cb-bc4c-4215-8796-3009ee5a0f11)
-)
