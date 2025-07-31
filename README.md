@@ -22,7 +22,7 @@ cd swamiseva
 flutter pub get
 flutter run
 
-# Message
+** # Message **
 This is my first Flutter app, built as a part of my learning journey in app development.
 I dedicate this humble creation to my everything — my God and Guru, Shree Swami Samarth Maharaj.
 With each line of code, I offer my gratitude and devotion.
